@@ -1,0 +1,9 @@
+{
+    "/js/bootstrap/bootstrap.js": "/js/bootstrap/bootstrap.js",
+    "/css/bootstrap/bootstrap.css": "/css/bootstrap/bootstrap.css",
+    "/css/stylish-portfolio/stylish-portfolio.css": "/css/stylish-portfolio/stylish-portfolio.css",
+    "/css/simple-line-icons/simple-line-icons.css": "/css/simple-line-icons/simple-line-icons.css",
+    "/js/jquery/jquery.min.js": "/js/jquery/jquery.min.js",
+    "/js/bootstrap/bootstrap.bundle.min.js": "/js/bootstrap/bootstrap.bundle.min.js",
+    "/js/stylish-portfolio/stylish-portfolio.min.js": "/js/stylish-portfolio/stylish-portfolio.min.js"
+}
